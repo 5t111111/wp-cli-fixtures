@@ -8,13 +8,17 @@
       "name": "Nicolas Lemoine",
       "email": "dev@niconico.fr",
       "homepage": "https://github.com/nlemoine"
+    },
+    {
+      "name": "Hirofumi Wakasugi",
+      "homepage": "https://github.com/5t111111"
     }
   ],
   "homepage": "https://github.com/nlemoine/wp-cli-fixtures",
   "require": {
-    "php": "^7.3 || ^8.0",
-    "fakerphp/faker": "^1.20",
-    "nelmio/alice": "^3.8",
+    "php": "^8.1",
+    "fakerphp/faker": "^1.23",
+    "nelmio/alice": "^3.13",
     "wp-cli/wp-cli": "^2.4"
   },
   "require-dev": {
